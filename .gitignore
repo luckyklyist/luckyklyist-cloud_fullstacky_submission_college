@@ -1,0 +1,4 @@
+.env
+
+# node modules from all folders in git ignore 
+node_modules
